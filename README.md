@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="128" alt="GANs-Implementations logo"></p>
+
 # GANs Implementation - Photo to Sketch Conversion
 
 A PyTorch implementation of Generative Adversarial Networks (GANs) for converting facial photos to sketches using the CUHK Face Sketch Database.
